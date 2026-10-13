@@ -1,0 +1,1 @@
+CloseKeyBoard.hideKeyboard(MainActivity3.this);
